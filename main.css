@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+  
+}
+.list{
+    justify-content: space-between;
+    display: flex;
+}
+.link{
+    font-size: 28px;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 1330px;
+    margin: 0 auto;
+}
+
+.programming-card{
+    width: 320px;
+}
+
+.wrapper2{
+    width: 1330px;
+
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.wrapper3{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer{
+    margin-top: 50px;
+}
+
+.programming-footer{
+    width: 650px;
+}
+
